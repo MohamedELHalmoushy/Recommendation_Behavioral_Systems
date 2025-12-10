@@ -1,5 +1,5 @@
 # Recommendation_Behavioral_Systems
-# 🌟 Project Title — Professional AI / DSP / Embedded Project
+# 🌟 Project Title — Recommend Me
 
 <img align="right" src="IMAGE_LINK" width="180" style="border-radius: 15px;">
 
@@ -27,9 +27,8 @@ This project demonstrates an end-to-end solution using **AI + Engineering** with
 ## 🛠️ Tech Stack
 | Category | Technologies |
 |---------|--------------|
-| Programming | Python, C, Java, MATLAB |
+| Programming | Python|
 | AI/ML | NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch |
-| DSP | FFT, Filters, MATLAB Tools |
 | Deployment | Flask / FastAPI |
 | Tools | Git, Colab, Kaggle, Linux |
 
@@ -42,7 +41,7 @@ This project demonstrates an end-to-end solution using **AI + Engineering** with
 
 ### 1️⃣ Correlation Matrix
 Visualizing feature correlations to understand relationships in the dataset.  
-![Correlation Matrix](COrrelation Matrix.png)
+![Correlation Matrix](COrrelation_Matrix.png)
 
 ---
 
@@ -54,11 +53,11 @@ Receiver Operating Characteristic curve showing model classification performance
 
 ### 3️⃣ Confusion Matrix
 Performance evaluation of the classification model on test data.  
-![Confusion Matrix](Confusion Matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
 ---
 
 ### 4️⃣ Training vs. Validation Accuracy
 Shows model performance and checks for overfitting/underfitting.  
-![Training vs Validation Accuracy](training Vs Validation.png)
+![Training vs Validation Accuracy](training_Vs_Validation.png)
 
