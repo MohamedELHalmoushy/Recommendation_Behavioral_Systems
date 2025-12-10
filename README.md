@@ -36,4 +36,29 @@ This project demonstrates an end-to-end solution using **AI + Engineering** with
 ---
 
 ## 📂 Repository Structure
+# 🌟 Recommendation_Behavioral_Systems
+
+## 📊 Model Evaluation & Visualizations
+
+### 1️⃣ Correlation Matrix
+Visualizing feature correlations to understand relationships in the dataset.  
+![Correlation Matrix](COrrelation Matrix.png)
+
+---
+
+### 2️⃣ ROC Curve
+Receiver Operating Characteristic curve showing model classification performance.  
+![ROC Curve](ROC.png)
+
+---
+
+### 3️⃣ Confusion Matrix
+Performance evaluation of the classification model on test data.  
+![Confusion Matrix](Confusion Matrix.png)
+
+---
+
+### 4️⃣ Training vs. Validation Accuracy
+Shows model performance and checks for overfitting/underfitting.  
+![Training vs Validation Accuracy](training Vs Validation.png)
 
